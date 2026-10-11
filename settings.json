@@ -1,0 +1,11 @@
+{
+  "threshold_db": -35,
+  "minimum_pause_ms": 120,
+  "tail_ms": 35,
+  "head_ms": 45,
+  "fade_ms": 2,
+  "base_speed": 1.30,
+  "minimum_speed": 1.30,
+  "maximum_speed": 1.33,
+  "speed_changes_pitch": true
+}
